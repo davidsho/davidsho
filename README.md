@@ -1,16 +1,14 @@
+![](https://i.imgur.com/4M7IWwP.gif)
 ### Hi there 👋
+Thanks for visiting my profile. You won't find any public repos as of yet but 
+I am planning on open sourcing my portfolio website as soon as it is finished.
+I work mainly on web development, including front-end technologies like React
+and back-end technologies like Flask and Express. Please give me a follow!
 
-<!--
-**davidsho/davidsho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+David / 18
 
-Here are some ideas to get you started:
+🐦 [Twitter](https://www.twitter.com/dvdshortland/)
+📧 [Mail](mailto:dvdshortland@gmail.com)
+🌐 [Website](https://davidshort.land/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://i.imgur.com/4M7IWwP.gif)
