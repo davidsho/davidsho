@@ -13,6 +13,6 @@ David / 18
 
 🌐 [Website](https://davidshort.land/)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsho&count_private=true)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsho&count_private=true&show_icons=true&theme=onedark)
 
 ![](https://i.imgur.com/4M7IWwP.gif)
