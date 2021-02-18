@@ -8,7 +8,9 @@ and back-end technologies like Flask and Express. Please give me a follow!
 David / 18
 
 🐦 [Twitter](https://www.twitter.com/dvdshortland/)
+
 📧 [Mail](mailto:dvdshortland@gmail.com)
+
 🌐 [Website](https://davidshort.land/)
 
 ![](https://i.imgur.com/4M7IWwP.gif)
