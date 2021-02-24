@@ -2,8 +2,8 @@
 ### Hi there 👋
 Thanks for visiting my profile. You won't find any public repos as of yet but 
 I am planning on open sourcing my portfolio website as soon as it is finished.
-I work mainly on web development, including front-end technologies like React
-and back-end technologies like Flask and Express. Please give me a follow!
+I work mainly on back-end web development, including technologies like
+Flask and Express. Please give me a follow!
 
 David / 18
 
