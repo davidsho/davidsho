@@ -13,6 +13,6 @@ David / 18
 
 🌐 [Website](https://davidshort.land/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidsho&theme=tokyonight&layout=compact)
 
 ![](https://i.imgur.com/4M7IWwP.gif)
